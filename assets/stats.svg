@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="340" viewBox="0 0 1536 340" role="img" aria-label="GitHub statistics">
+<rect width="1536" height="340" fill="#0a0916"/>
+<path d="M45 20 H1491" stroke="#7e22ce" stroke-width="2"/>
+<text x="50" y="64" font-size="31" fill="#f5f3ff" font-family="Arial, sans-serif" font-weight="bold">📊 GitHub Stats</text>
+<rect x="45" y="92" width="685" height="220" rx="20" fill="#171127" stroke="#a855f7" stroke-width="3"/>
+<rect x="756" y="92" width="735" height="220" rx="20" fill="#171127" stroke="#a855f7" stroke-width="3"/>
+<text x="80" y="142" font-size="32" fill="#f5f3ff" font-family="Arial, sans-serif" font-weight="bold">isergeevych</text>
+<text x="80" y="193" font-size="22" fill="#c4b5fd" font-family="Arial, sans-serif" font-weight="normal">Public repositories</text>
+<text x="80" y="241" font-size="39" fill="#d8b4fe" font-family="Arial, sans-serif" font-weight="bold">7</text>
+<text x="340" y="193" font-size="22" fill="#c4b5fd" font-family="Arial, sans-serif" font-weight="normal">Followers</text>
+<text x="340" y="241" font-size="39" fill="#d8b4fe" font-family="Arial, sans-serif" font-weight="bold">0</text>
+<text x="530" y="193" font-size="22" fill="#c4b5fd" font-family="Arial, sans-serif" font-weight="normal">Following</text>
+<text x="530" y="241" font-size="39" fill="#d8b4fe" font-family="Arial, sans-serif" font-weight="bold">0</text>
+<text x="790" y="142" font-size="29" fill="#f5f3ff" font-family="Arial, sans-serif" font-weight="bold">Repository languages</text>
+<rect x="790" y="166" width="655" height="20" fill="#8b5cf6"/>
+<circle cx="798" cy="218" r="8" fill="#8b5cf6"/>
+<text x="817" y="225" font-size="22" fill="#e9d5ff" font-family="Arial, sans-serif" font-weight="normal">Python · 6 repos</text>
+<text x="52" y="330" font-size="17" fill="#a78bfa" font-family="Arial, sans-serif" font-weight="normal">Source: GitHub public API · Languages counted by primary language per public non-fork repository</text>
+</svg>
